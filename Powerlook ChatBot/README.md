@@ -1,4 +1,4 @@
-## Chatbot_Powerlook.ipynb — AI Chatbot for Powerlook India
+# Chatbot_Powerlook.ipynb — AI Chatbot for Powerlook India
 
 ## Introduction
 A multi-feature AI-powered chatbot system built for Powerlook, an Indian men's fashion brand, combining rule-based responses with ML components.
