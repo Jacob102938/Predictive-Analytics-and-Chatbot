@@ -1,3 +1,5 @@
+# Bitcoin Price Forecasting
+
 ## Introduction
 Predictive analytics project on Bitcoin's historical price data using multiple statistical and machine learning techniques.
 ## Dataset Used
